@@ -1,0 +1,1 @@
+# daikibo-equality-project
